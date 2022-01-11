@@ -1,0 +1,9 @@
+{
+  "realm": "react-app",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "resource": "nodejs",
+  "bearerOnly": true,
+  "credentials": {
+    "secret": "4e7a85f2-8609-40d5-a182-f2fb115b0cb2"
+  }
+}
